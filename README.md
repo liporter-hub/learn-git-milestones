@@ -225,8 +225,8 @@ Now that we have basic Git commands out of the way use Git to create and turn in
 Step | Description | Completed
 --- | --- | ---
 2-1 | 1st Favorite emoji | 😑
-2-2 | Link to [link](https://github.com/liporter-hub/learn-git-milestones/commits?author=liporter-hub) |
-2-3 | Link to markdown tables docs |
+2-2 | Link to  | [link](https://github.com/liporter-hub/learn-git-milestones/commits?author=liporter-hub)
+2-3 | Link to markdown tables docs | [link](https://www.markdownguide.org/extended-syntax/)
 2-4 | What does `log` do? |
 3-1 | 2nd Favorite emoji |
 3-2 | Link to `commit #2 from Github Desktop` |
