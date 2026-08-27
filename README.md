@@ -233,8 +233,7 @@ Step | Description | Completed
 4-1 | Full path to your working directory | /c/Users/LiamP/Documents/GitHub/learn-git-milestones
 4-2 | Link to `commit #3 from CLI` | [CLI Commit](https://github.com/liporter-hub/learn-git-milestones/commit/486f3f1a9af2c6c715924be39339dc4dfd84daca)
 5-1 | Link to `first-website` github.com repo page | [First-Website](https://github.com/liporter-hub/first-website)
-6-1 | Link to `first-website` github.io "project site" |
-
+6-1 | Link to `first-website` github.io "project site" |[Live Website](https://liporter-hub.github.io/first-website/)
 
 
 
